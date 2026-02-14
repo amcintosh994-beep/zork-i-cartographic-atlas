@@ -1,0 +1,33 @@
+# Inside the Barrow
+
+## Description (verbatim)
+As you enter the Barrow, the door closes inexorably behind you. Around you it is dark, but ahead is an enormous cavern, brightly lit. Through its center runs a wide stream. Spanning the stream is a small wooden footbridge, and beyond a path leads into a dark tunnel. Above the bridge, floating in the air, is a large sign that reads: *All ye who stand before this bridge have completed a great and perilous adventure which has tested your wit and courage. You have mastered the first part of the Zork trilogy.
+Those who pass over must be prepared to undertake an even greater adventure that will severely test your skill and bravery!*
+
+The Zork Trilogy continues with "Zork II: The Wizard of Frobozz" and is completed in "Zork III: The Dungeon Master."
+
+## Exits (as reported)
+- None
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- Entry triggers irreversible game termination.
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Lighting transition: dark at entry; cavern visibly lit.
+
+## Mapping notes
+**Internal ID**: Z1-R-089
+**First mapped**: 2026 Feb. 13
+**Revisions**:

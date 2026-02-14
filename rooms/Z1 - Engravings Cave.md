@@ -1,0 +1,31 @@
+# Engravings Cave
+
+## Description (verbatim)
+You have entered a low cave with passages leading northwest and east. There are old engravings on the wall here.
+
+## Exits (as reported)
+- E → [[Z1 - Dome Room]]
+- NW → [[Z1 - Round Room]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- EXAMINE ENGRAVINGS → "The engravings were incised in the living rock of the cave wall by an unknown hand. They depict, in symbolic form, the beliefs of the ancient Zorkers. Skillfully interwoven with the bas reliefs are excerpts illustrating the major religious tenets of that time. Unfortunately, a later age seems to have considered them blasphemous and just as skillfully excised them." (Descriptive lore; no mechanical effect)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-015
+**First mapped**: 2026 Feb. 4
+**Revisions**:

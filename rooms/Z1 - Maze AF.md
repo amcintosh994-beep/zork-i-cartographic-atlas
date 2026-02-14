@@ -1,0 +1,33 @@
+# Z1 - Maze AF
+
+## Description (verbatim)
+This is part of a maze of twisty little passages, all alike.
+
+## Exits (as reported)
+- NE → [[Z1 - Grating Room]]
+- SW → [[Z1 - Maze AG]]
+- NW → [[Z1 - Maze AH]]
+- D → [[Z1 - Maze AI]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-085
+**First mapped**: 2026 Feb. 13
+**Revisions**:

@@ -1,0 +1,40 @@
+# Maintenance Room
+
+## Description (verbatim)
+This is what appears to have been the Maintenance Room for Flood Control Dam #3. Apparently, this room has been ransacked recently, for most of the valuable equipment is gone. On the wall in front of you is a group of buttons colored blue, yellow, brown, and red.
+There are doorways to the west and south.
+There is a group of tool chests here.
+There is a wrench here.
+There is an object which looks like a tube of toothpaste here.
+There is a screwdriver here.
+
+## Exits (as reported)
+- S/W → [[Z1 - Dam Lobby]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- Yellow button loosens sluice bolt and activates Green Bubble indicator at Dam.
+- Red button restores power to internal Dam systems (Maintenance Room).
+- Blue button causes pipe leak; water fills the room.
+- Room lighting depends on power state (red button).
+
+## Objects present
+- Screwdriver
+- Wrench
+- Tube (toothpaste-like)
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- PUSH YELLOW BUTTON → loosens sluice bolt
+
+## State notes
+- Environment dark/lit based on power flow (red button)
+
+## Mapping notes
+**Internal ID**: Z1-R-032
+**First mapped**: 2026 Feb. 4
+**Revisions**:

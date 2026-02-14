@@ -1,0 +1,32 @@
+# Z1 - Coal Mine B
+
+## Description (verbatim)
+This is a non-descript part of a coal mine.
+
+## Exits (as reported)
+- N → [[Z1 - Coal Mine D]]
+- SE → [[Z1 - Coal Mine E]]
+- S → [[Z1 - Coal Mine F]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-049
+**First mapped**: 2026 Feb. 7
+**Revisions**:

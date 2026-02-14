@@ -1,0 +1,33 @@
+# Z1 - The Troll Room
+
+## Description (verbatim)
+This is a small room with passages to the east and south and a forbidding hole leading west. Bloodstains and deep scratches (perhaps made by an axe) mar the walls.
+A nasty-looking troll, brandishing a bloody axe, blocks all passages out of the room. [
+
+## Exits (as reported)
+- E → [[Z1 - East-West Passage]]
+- S → [[Z1 - Cellar]]
+- W → [[Z1 - Maze A]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- East and west traversal gated by troll's presence
+
+## Objects present
+- Bloody Axe (initially held by Troll)
+
+## Hazards/NPCs
+- Troll
+
+## Key parser interactions
+- KILL TROLL WITH SWORD → removes NPC traversal gate
+
+## State notes
+- Troll initially present; later removed
+
+## Mapping notes
+**Internal ID**: Z1-R-011
+**First mapped**: 2026 Feb. 3
+**Revisions:**

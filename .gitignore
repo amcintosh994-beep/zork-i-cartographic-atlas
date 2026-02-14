@@ -1,0 +1,9 @@
+# Build artifacts
+build/
+
+# Obsidian workspace files (local state)
+.obsidian/
+
+# Python cache
+__pycache__/
+*.pyc

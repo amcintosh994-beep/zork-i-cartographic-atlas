@@ -1,0 +1,34 @@
+# Forest Path
+
+## Description (verbatim)
+This is a path winding through a dimly lit forest. The path heads north-south here. One particularly large tree with some low branches stands at the edge of the path.
+
+## Exits (as reported)
+- N → [[Z1 - Clearing B]]
+- E → [[Z1 - Forest H]]
+- S → [[Z1 - North of House]]
+- W → [[Z1 - Forest I]]
+- U → [[Z1 - Up a tree]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- Songbird drops Brass Bauble here when Canary is wound Up a Tree.
+
+## Objects present
+- Brass Bauble
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Lit
+
+## Mapping notes
+**Internal ID**: Z1-R-072
+**First mapped**: 2026 Feb. 11
+**Revisions**: 2026 Feb. 13

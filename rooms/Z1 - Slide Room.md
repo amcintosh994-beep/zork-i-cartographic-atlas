@@ -1,0 +1,32 @@
+# Slide Room
+
+## Description (verbatim)
+This is a small chamber, which appears to have been part of a coal mine. On the south wall of the chamber the letters "GRANITE WALL" are etched in the rock. To the east is a long passage, and there is a steep metal slide twisting downward. To the north is a small opening.
+
+## Exits (as reported)
+- N → [[Z1 - Mine Entrance]]
+- E → [[Z1 - Cold Passage]]
+- D → [[Z1 - Cellar]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- One-way traversal: one can only go down the slide, not up it.
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-041
+**First mapped**: 2026 Feb. 6
+**Revisions**:

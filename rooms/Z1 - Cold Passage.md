@@ -1,0 +1,31 @@
+# Cold Passage
+
+## Description (verbatim)
+This is a cold and damp corridor where a long east-west passageway turns into a southward path.
+
+## Exits (as reported)
+- S → [[Z1 - Mirror Room B]]
+- W → [[Z1 - Slide Room]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-040
+**First mapped**: 2026 Feb. 6
+**Revisions**:

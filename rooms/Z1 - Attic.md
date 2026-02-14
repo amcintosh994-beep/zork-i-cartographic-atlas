@@ -1,0 +1,33 @@
+# Attic
+
+## Description (verbatim)
+This is the Attic. The only exit is a stairway leading down.
+A large coil of Rope is lying in the corner.
+On a table is a Nasty-Looking Knife.
+
+## Exits (as reported)
+- D → [[Z1 - Kitchen]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- Rope
+- Nasty-Looking Knife
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-013
+**First mapped**: 4 Feb. 2026
+**Revisions**:

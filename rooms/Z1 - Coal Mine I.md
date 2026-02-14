@@ -1,0 +1,32 @@
+# Z1 - Coal Mine I
+
+## Description (verbatim)
+You have entered a non-descript part of a coal mine.
+
+## Exits (as reported)
+- N → [[Z1 - Coal Mine J]]
+- W → [[Z1 - Coal Mine K]]
+- D → [[Z1 - Ladder Top]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-051
+**First mapped**: 2026 Feb 7.
+**Revisions**:

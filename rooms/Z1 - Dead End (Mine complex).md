@@ -1,0 +1,31 @@
+# Z1 - Dead End (Mine complex)
+
+## Description (verbatim)
+You have come to a dead end in the mind.
+There is a small pile of coal here.
+
+## Exits (as reported)
+- N → [[Z1 - Ladder Bottom]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- A small pile of coal
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-054
+**First mapped**: 2026 Feb. 7
+**Revisions**:

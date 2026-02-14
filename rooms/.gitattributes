@@ -1,0 +1,4 @@
+*.md text eol=lf
+normalize_rooms.py text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf

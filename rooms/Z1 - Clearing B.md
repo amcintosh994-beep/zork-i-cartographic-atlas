@@ -1,0 +1,33 @@
+# Z1 - Clearing B
+
+## Description (verbatim)
+You are in a clearing, with a forest surrounding you on all sides. A path leads south.
+There is an open grating, descending into darkness.
+
+## Exits (as reported)
+- E → [[Z1 - Forest J]]
+- S → [[Z1 - Forest Path]]
+- W → [[Z1 - Forest K]]
+
+## Blocked movements
+- N → "The forest becomes impenetrable to the north."
+
+## Hidden/conditional transitions
+- If grating is unlocked and opened, D → [[Z1 - Grating Room]]
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Lit
+
+## Mapping notes
+**Internal ID**: Z1-R-087
+**First mapped**: 2026 Feb. 13
+**Revisions**:

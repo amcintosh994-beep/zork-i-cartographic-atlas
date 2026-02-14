@@ -1,0 +1,43 @@
+# Z1 - Living Room
+
+## Description (verbatim)
+You are in the Living Room. There is a doorway to the east, a wooden door with strange gothic lettering to the west, which appears to be nailed shut, a Trophy Case, and a large Oriental Rug in the center of the room.
+Above the Trophy Case hangs an Elvish Sword of great antiquity.
+A battery-powered brass lantern is on the trophy case.
+
+## Exits (as reported)
+- E → [[Z1 - Kitchen]]
+
+## Blocked movements
+- W → "The door is nailed shut."
+
+## Hidden/conditional transitions
+- Trapdoor concealed beneath rug; not visible initially
+- MOVE RUG → trapdoor revealed
+- D → [[Z1 - Cellar]] (only after trapdoor opened)
+- W → [[Z1 - Strange Passage]] opened by Cyclops
+- When all treasures are deposited in case, a map with directions to Zork II appears.
+
+## Objects present
+- Trophy Case
+- Elvish Sword (mounted above case)
+- Brass Lantern (on trophy case)
+- Oriental Rug (covers floor centre)
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Trapdoor closes and becomes impassible after descent.
+- Lit
+- Trophy Case now contains stored Painting.
+
+## Mapping notes
+**Internal ID**: Z1-R-06
+First mapped: 2026 Feb. 3
+Revisions:
+
+Interior hub room; introduces concealed vertical transition and persistent interior objects.

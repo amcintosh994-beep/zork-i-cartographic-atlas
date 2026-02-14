@@ -1,0 +1,34 @@
+# Z1 - Forest B
+
+## Description (verbatim)
+This is a dimly lit forest, with large trees all around.
+
+## Exits (as reported)
+- N → [[Z1 - Clearing A]]
+- W → [[Z1 - Forest D]]
+- NW → [[Z1 - South of House]]
+
+## Blocked movements
+- E → "The rank undergrowth prevents eastward movement."
+- S → "Storm-tossed trees block your way."
+- U → "There is no tree here suitable for climbing."
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Lit
+
+## Mapping notes
+**Internal ID**: Z1-R-022
+**First mapped**: 2026 Feb. 4
+**Revisions**:

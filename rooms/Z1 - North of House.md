@@ -1,0 +1,36 @@
+# Z1 - North of House
+
+## Description (verbatim)
+You are facing the north side of a White House. There is no door here, and all the windows are boarded up. To the north, a narrow path winds through the trees.
+
+## Exits (as reported)
+- N → [[Z1 - Forest Path]]
+- E → [[Z1 - Behind House]]
+- SE → [[Z1 - Behind House]]
+- SW → [[Z1 - West of House]]
+- W → [[Z1 - West of House]]
+
+## Blocked movements
+- S: "The windows are all boarded."
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Lit
+
+## Mapping notes
+**Internal ID**: Z1-R-004
+**First mapped**: 2026 Feb. 03
+**Revisions**:
+
+Completes exterior house perimeter; confirms consistent directional collapse and façade-specific blocking logic.

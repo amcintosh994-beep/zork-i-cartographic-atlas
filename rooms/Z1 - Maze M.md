@@ -1,0 +1,33 @@
+# Z1 - Maze M
+
+## Description (verbatim)
+This is part of a maze of twisty little passages, all alike.
+
+## Exits (as reported)
+- E → [[Z1 - Maze N]]
+- S → [[Z1 - Maze O]]
+- W → [[Z1 - Maze P]]
+- U → [[Z1 - Maze Q]]
+
+## Blocked movements
+- (none)
+
+## Hidden/conditional transitions
+- D (one-way) → [[Z1 - Dead End B (Maze)]]
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-079
+**First mapped**: 2026 Feb. 12
+**Revisions**:

@@ -1,0 +1,33 @@
+# Z1 - Cellar
+
+## Description (verbatim)
+You are in a dark and damp cellar with a narrow passageway leading north, and a crawlway to the south. On the west is the bottom of a steep metal ramp which is unclimbable.
+
+## Exits (as reported)
+- N → [[Z1 - The Troll Room]]
+- S → [[Z1 - East of Chasm]]
+
+## Blocked movements
+- W: "You try to ascend the ramp, but it is impossible and you slide back down."
+
+## Hidden/conditional transitions
+- ...
+
+## Objects present
+- ...
+
+## Hazards/NPCs
+- ...
+
+## Key parser interactions
+- (none)
+
+## State notes
+- Dark
+
+## Mapping notes
+**Internal ID**: Z1-R-007
+First mapped: 2026 Feb. 3
+Revisions:
+
+First irreversible descent; establishes underground regime and darkness as navigational condition.

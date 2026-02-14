@@ -27,8 +27,6 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any, Dict, List, Tuple, Optional
 
-import re
-from typing import List, Dict
 
 # ----------------------------
 # Schema loading (authority)
@@ -288,45 +286,6 @@ def _strip_md_bold(s: str) -> str:
     s = s.strip("*").strip()
     return s
 
-def _notes(raw_lines: List[str]) -> Dict[str, object]:
-    allowed_keys = {"Internal ID", "First mapped", "Revisions"}
-    out: Dict[str, object] = {}
-    notes: List[str] = []
-
-    for line in raw_lines:
-        s = line.strip()
-        if not s:
-            continue
-
-        # Treat bullet lines as notes, even if they contain ':'.
-        if s.startswith(("-", "*")):
-            m = BULLET_RE.match(s)
-            notes.append(_strip_md_bold(m.group("item") if m else s.lstrip("-* ").strip()))
-            continue
-
-        m = KV_RE.match(s) or KV_PLAIN_RE.match(s)
-        if m:
-            key = _strip_md_bold(m.group("key"))
-            val = _strip_md_bold(m.group("val"))
-            if key in allowed_keys:
-                # Normalize Internal ID formatting here (see #3)
-                if key == "Internal ID":
-                    val = _canonicalize_internal_id(val)
-                out[key] = val
-            else:
-                # Unknown “kv-ish” line goes to notes to avoid schema additionalProperties violations.
-                notes.append(_strip_md_bold(s))
-            continue
-
-        # Anything else: treat as note
-        notes.append(_strip_md_bold(s))
-
-    if notes:
-        out["Notes"] = notes
-    return out
-
-
-
 # Exit parsing remains strict and canonicalizes to schema's regex form.
 EXIT_TOKEN_RE = re.compile(
     r"""^\s*
@@ -342,8 +301,6 @@ EXIT_TOKEN_RE = re.compile(
 )
 
 PLACEHOLDER_EXITS = {"None", "(none)", "*", "-"}
-
-WIKILINK_RE = re.compile(r"^\[\[(?P<inner>.+)\]\]$")
 
 WIKILINK_RE = re.compile(r"^\[\[(?P<inner>.+)\]\]$")
 
@@ -442,15 +399,6 @@ def parse_mapping_notes(raw_lines: List[str]) -> Dict[str, object]:
         s = s.strip("*").strip()
         return s
 
-    def canonicalize_internal_id(v: str) -> str:
-        v = v.strip()
-        if not v:
-            return v
-        m = re.match(r"^Z1-R-(\d{1,3})$", v)
-        if m:
-            return f"Z1-R-{int(m.group(1)):03d}"
-        return v
-
     def try_parse_kv(s: str) -> bool:
         """Return True if s was parsed into out; False if it should be treated as a free note."""
         if ":" not in s:
@@ -466,7 +414,7 @@ def parse_mapping_notes(raw_lines: List[str]) -> Dict[str, object]:
 
         if key in allowed_keys:
             if key == "Internal ID":
-                val = canonicalize_internal_id(val)
+                val = _canonicalize_internal_id(val)
                 if not val:
                     raise ValueError("Mapping notes: Internal ID is empty")
             if key == "First mapped" and not val:

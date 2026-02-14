@@ -14,7 +14,7 @@ import sys
 import json
 from pathlib import Path
 
-SCHEMA = Path("schema/room_schema_v1.0_with_section_order.json")
+SCHEMA = Path("schema/room_schema_v1.0.json")
 IN_DIR = Path("rooms")
 OUT_DIR = Path("normalized")
 

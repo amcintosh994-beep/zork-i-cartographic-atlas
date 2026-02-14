@@ -1,7 +1,19 @@
 repos:
   - repo: local
     hooks:
-    
+      - id: z1-normalize-rooms
+        name: Z1 schema-authoritative room normalization
+        entry: python scripts/normalize_rooms_schema_authoritative.py
+        language: system
+        pass_filenames: false
+        args:
+          - --schema
+          - schema/room_schema_v1.0.json
+          - --in
+          - rooms
+          - --out
+          - normalized
+          - --fail-fast
       - id: zork-no-mixed-eol
         name: Zork Atlas - reject mixed line endings
         entry: python scripts/check_mixed_line_endings.py
@@ -18,14 +30,14 @@ repos:
         args:
           - >
             set -euo pipefail;
-            SCHEMA="schema/room_schema_v1.0_with_section_order.json";
+            SCHEMA="schema/room_schema_v1.0.json";
             IN_DIR="rooms";
             OUT_DIR="normalized";
             python scripts/normalize_rooms_schema_authoritative.py --schema "$SCHEMA" --in "$IN_DIR/" --out "$OUT_DIR/" --fail-fast;
             python - <<'PY'
             import json, sys
             from pathlib import Path
-            schema_path = Path("schema/room_schema_v1.0_with_section_order.json")
+            schema_path = Path("schema/room_schema_v1.0.json")
             out_dir = Path("normalized")
             try:
                 import jsonschema

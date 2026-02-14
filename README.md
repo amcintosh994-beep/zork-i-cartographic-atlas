@@ -29,7 +29,7 @@ Pre-commit gate:
 scripts/atlast_compile_gate.py
 
 Schema:
-schema/room_schema_v1.0_with_section_order.json
+schema/room_schema_v1.0.json
 
 ## Invariants (v1.0)
 * No unknown headers permitted

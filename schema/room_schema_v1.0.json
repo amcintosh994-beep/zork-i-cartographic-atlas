@@ -2,16 +2,18 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "title": "Zork I Cartographic Atlas Room Schema v1.0",
   "type": "object",
-  "required": ["title", "sections"],
+  "required": [
+    "title",
+    "sections",
+    "section_order"
+  ],
   "additionalProperties": false,
-
   "properties": {
     "title": {
       "type": "string",
       "pattern": "^Z1 - .+",
       "description": "Exactly one H1. Must begin with 'Z1 - '."
     },
-
     "sections": {
       "type": "object",
       "additionalProperties": false,
@@ -26,14 +28,11 @@
         "State notes",
         "Mapping notes"
       ],
-
       "properties": {
-
         "Description (verbatim)": {
           "type": "string",
           "minLength": 1
         },
-
         "Exits (as reported)": {
           "type": "array",
           "items": {
@@ -41,40 +40,48 @@
             "pattern": "^(?:N|S|E|W|NE|NW|SE|SW|U|D|WAIT|LAND|LAUNCH)(?:/(?:N|S|E|W|NE|NW|SE|SW|U|D))? ?→ ?\\[\\[Z1 - .+\\]\\]$"
           }
         },
-
         "Blocked movements": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-
         "Hidden/conditional transitions": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-
         "Objects present": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-
         "Hazards/NPCs": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-
         "Key parser interactions": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-
         "State notes": {
           "type": "array",
-          "items": { "type": "string" }
+          "items": {
+            "type": "string"
+          }
         },
-
         "Mapping notes": {
           "type": "object",
-          "required": ["Internal ID", "First mapped"],
+          "required": [
+            "Internal ID",
+            "First mapped"
+          ],
           "additionalProperties": false,
           "properties": {
             "Internal ID": {
@@ -87,13 +94,36 @@
             "Revisions": {
               "type": "string"
             },
-			"Notes": {
-				"type": "array",
-				"items": { "type": "string" }
-			}
+            "Notes": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              }
+            }
           }
         }
       }
+    },
+    "section_order": {
+      "type": "array",
+      "description": "Canonical ordered authority for Markdown H2 sections and JSON sections keys.",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 9,
+      "maxItems": 9,
+      "uniqueItems": true,
+      "const": [
+        "Description (verbatim)",
+        "Exits (as reported)",
+        "Blocked movements",
+        "Hidden/conditional transitions",
+        "Objects present",
+        "Hazards/NPCs",
+        "Key parser interactions",
+        "State notes",
+        "Mapping notes"
+      ]
     }
   }
 }

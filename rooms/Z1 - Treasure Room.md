@@ -1,4 +1,4 @@
-# Treasure Room
+# Z1 - Treasure Room
 
 ## Description (verbatim)
 You hear a scream of anguish as you violate the robber's hideaway. Using passages unknown to you, he rushes to its defense.
@@ -31,6 +31,6 @@ There is a Silver Chalice, intricately engraved, here.
 -
 
 ## Mapping notes
-**Internal ID**:
-**First mapped**:
+**Internal ID**: Z1-R-082
+**First mapped**: 2026 Feb. 12
 **Revisions**:

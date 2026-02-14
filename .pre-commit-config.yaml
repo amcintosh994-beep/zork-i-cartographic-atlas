@@ -1,0 +1,43 @@
+repos:
+  - repo: local
+    hooks:
+      - id: zork-atlas-compiler
+        name: Zork Atlas compiler-grade gate
+        entry: python scripts/atlas_compile_gate.py
+        language: system
+        pass_filenames: false
+        args:
+          - >
+            set -euo pipefail;
+            SCHEMA="schema/room_schema_v1.0_with_section_order.json";
+            IN_DIR="rooms";
+            OUT_DIR="normalized";
+            python scripts/normalize_rooms_schema_authoritative.py --schema "$SCHEMA" --in "$IN_DIR/" --out "$OUT_DIR/" --fail-fast;
+            python - <<'PY'
+            import json, sys
+            from pathlib import Path
+            schema_path = Path("schema/room_schema_v1.0_with_section_order.json")
+            out_dir = Path("normalized")
+            try:
+                import jsonschema
+            except Exception:
+                print("[pre-commit] ERROR: Missing dependency: jsonschema", file=sys.stderr)
+                print("Install with: python -m pip install jsonschema", file=sys.stderr)
+                raise
+            schema = json.loads(schema_path.read_text(encoding="utf-8"))
+            json_files = sorted(out_dir.glob("*.json"))
+            if not json_files:
+                raise SystemExit("[pre-commit] ERROR: No JSON files found in normalized/.")
+            errors = 0
+            for p in json_files:
+                try:
+                    instance = json.loads(p.read_text(encoding="utf-8"))
+                    jsonschema.validate(instance=instance, schema=schema)
+                except Exception as e:
+                    errors += 1
+                    print(f"[pre-commit] SCHEMA VALIDATION FAILED: {p}: {e}", file=sys.stderr)
+            if errors:
+                raise SystemExit(1)
+            print(f"[pre-commit] Schema validation OK: {len(json_files)} file(s).")
+            PY
+            git diff --exit-code -- "$IN_DIR" "$OUT_DIR" >/dev/null;

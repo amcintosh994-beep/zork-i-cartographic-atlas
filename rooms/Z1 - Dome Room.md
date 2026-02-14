@@ -1,4 +1,4 @@
-# Dome Room
+# Z1 - Dome Room
 
 ## Description (verbatim)
 You are at the periphery of a large dome, which forms the ceiling of another room below. Protecting you from a precipitous drop is a wooden railing which circles the dome.

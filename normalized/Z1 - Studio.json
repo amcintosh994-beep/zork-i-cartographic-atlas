@@ -34,5 +34,16 @@
         "Confirms one-way vertical connection to Kitchen via chimney; descent asymmetry established."
       ]
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

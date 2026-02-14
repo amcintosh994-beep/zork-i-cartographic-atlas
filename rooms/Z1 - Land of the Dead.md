@@ -1,4 +1,4 @@
-# Land of the Dead
+# Z1 - Land of the Dead
 
 ## Description (verbatim)
 You have entered the land of the living dead. Thousands of lost souls can be heard weeping and moaning. In the corner are stacked the remains of dozens of previous adventurers less fortunate than yourself. A passage exits to the north.

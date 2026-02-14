@@ -1,4 +1,4 @@
-# Bat Room
+# Z1 - Bat Room
 
 ## Description (verbatim)
 You are in a small room which has doors only to the east and south.

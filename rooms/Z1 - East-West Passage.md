@@ -1,4 +1,4 @@
-# East-West Passage
+# Z1 - East-West Passage
 
 ## Description (verbatim)
 This is a narrow east-west passageway.

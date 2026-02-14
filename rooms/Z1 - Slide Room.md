@@ -1,4 +1,4 @@
-# Slide Room
+# Z1 - Slide Room
 
 ## Description (verbatim)
 This is a small chamber, which appears to have been part of a coal mine. On the south wall of the chamber the letters "GRANITE WALL" are etched in the rock. To the east is a long passage, and there is a steep metal slide twisting downward. To the north is a small opening.

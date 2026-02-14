@@ -1,4 +1,4 @@
-# Squeaky Room
+# Z1 - Squeaky Room
 
 ## Description (verbatim)
 - You are in a small room. Strange squeaky sounds may be heard coming from the passage at the North End. You may also escape to the east.

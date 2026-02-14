@@ -1,4 +1,4 @@
-# Torch Room
+# Z1 - Torch Room
 
 ## Description (verbatim)
 This is a large room with a prominent doorway leading to a down staircase.

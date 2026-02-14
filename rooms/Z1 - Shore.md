@@ -1,4 +1,4 @@
-# Shore
+# Z1 - Shore
 
 ## Description (verbatim)
 You are on the east shore of the river.

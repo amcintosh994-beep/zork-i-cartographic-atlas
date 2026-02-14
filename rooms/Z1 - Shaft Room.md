@@ -1,4 +1,4 @@
-# Shaft Room
+# Z1 - Shaft Room
 
 ## Description (verbatim)
 This is a large room, in the middle of which is a small shaft descending through the floor into the darkness below.

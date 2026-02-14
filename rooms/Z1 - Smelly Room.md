@@ -1,4 +1,4 @@
-# Smelly Room
+# Z1 - Smelly Room
 
 ## Description (verbatim)
 This is a small non-descript room.

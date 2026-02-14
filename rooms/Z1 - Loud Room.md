@@ -1,4 +1,4 @@
-# Loud Room
+# Z1 - Loud Room
 
 ## Description (verbatim)
 (If descending from above:) On the ground is a large Platinum Bar.

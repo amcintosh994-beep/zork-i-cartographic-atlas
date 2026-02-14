@@ -1,4 +1,4 @@
-# Egyptian Room
+# Z1 - Egyptian Room
 
 ## Description (verbatim)
 This is a room which looks like an Egyptian tomb. There is an ascending staircase to the west.

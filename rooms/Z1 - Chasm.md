@@ -1,4 +1,4 @@
-# Chasm
+# Z1 - Chasm
 
 ## Description (verbatim)
 A chasm runs southwest to northeast and the path follows it. You are on the south side of the Chasm, where a crack opens into a passage.

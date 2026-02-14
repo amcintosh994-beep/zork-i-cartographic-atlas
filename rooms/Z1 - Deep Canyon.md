@@ -1,4 +1,4 @@
-# Deep Canyon
+# Z1 - Deep Canyon
 
 ## Description (verbatim)
 You are on the south edge of a deep Canyon. Passages lead off to the east, northwest, and southwest. A stairway leads down. You can hear a loud roaring sound, like that of rushing water, from below.

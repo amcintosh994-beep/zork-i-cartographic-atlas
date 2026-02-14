@@ -4,7 +4,7 @@
 You have entered a non-descript part of a coal mine.
 
 ## Exits (as reported)
-- E → [[Z1 -Coal Mine G]]
+- E → [[Z1 - Coal Mine G]]
 - S → [[Z1 - Coal Mine H]]
 - SW → [[Z1 - Coal Mine I]]
 

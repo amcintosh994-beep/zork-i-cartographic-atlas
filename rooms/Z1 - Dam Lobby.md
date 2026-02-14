@@ -1,4 +1,4 @@
-# Dam Lobby
+# Z1 - Dam Lobby
 
 ## Description (verbatim)
 This room appears to have been the waiting room for groups touring the Dam. There are open doorways here to the north and south marked "PRIVATE", and there is a path leading south over the top of the Dam.

@@ -27,9 +27,20 @@
       "Dark"
     ],
     "Mapping notes": {
-      "Internal ID": "Z1-R-083",
+      "Internal ID": "Z1-R-084",
       "First mapped": "2026 Feb. 13",
       "Revisions": ""
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

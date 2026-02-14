@@ -32,5 +32,16 @@
       "First mapped": "2026 Feb. 4",
       "Revisions": "2026 Feb. 5"
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

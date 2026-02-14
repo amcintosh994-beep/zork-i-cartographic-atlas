@@ -28,6 +28,6 @@ This is part of a maze of twisty little passages, all alike.
 - Dark
 
 ## Mapping notes
-**Internal ID**: Z1-R-083
+**Internal ID**: Z1-R-084
 **First mapped**: 2026 Feb. 13
 **Revisions**:

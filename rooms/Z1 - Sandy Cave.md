@@ -1,4 +1,4 @@
-# Sandy Cave
+# Z1 - Sandy Cave
 
 ## Description (verbatim)
 This is a sand-filled cave whose exit is to the southwest.

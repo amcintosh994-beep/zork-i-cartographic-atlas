@@ -25,13 +25,24 @@
       "OPEN MAILBOX --> reveals a leaflet"
     ],
     "State notes": [
-      "Lit"
+      "Lit",
+      "Directional collapse observed: N ≡ NE; S ≡ SE"
     ],
     "Mapping notes": {
       "Internal ID": "Z1-R-001",
       "First mapped": "2026 Feb. 3",
-      "Revisions": "2026 Feb. 13",
-      "- Directional collapse observed": "N ≡ NE; S ≡ SE"
+      "Revisions": "2026 Feb. 13"
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

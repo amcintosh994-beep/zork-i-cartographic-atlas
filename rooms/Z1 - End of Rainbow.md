@@ -1,4 +1,4 @@
-# End of Rainbow
+# Z1 - End of Rainbow
 
 ## Description (verbatim)
 You are on a small, rocky beach on the continuation of the Frigid River past the Falls. The beach is narrow due to the presence of the white cliffs. The river canyon opens here and sunlight shines in from above. A Rainbow crosses over the Falls to the east and a narrow path continues southwest.

@@ -33,12 +33,23 @@
       "Trophy Case now contains stored Painting."
     ],
     "Mapping notes": {
-      "Internal ID": "Z1-R-06",
+      "Internal ID": "Z1-R-006",
       "First mapped": "2026 Feb. 3",
       "Revisions": "",
       "Notes": [
         "Interior hub room; introduces concealed vertical transition and persistent interior objects."
       ]
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

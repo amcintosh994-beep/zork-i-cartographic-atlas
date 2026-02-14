@@ -28,6 +28,6 @@ There is an open grating, descending into darkness.
 - Lit
 
 ## Mapping notes
-**Internal ID**: Z1-R-087
+**Internal ID**: Z1-R-088
 **First mapped**: 2026 Feb. 13
 **Revisions**:

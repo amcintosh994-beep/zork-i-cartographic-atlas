@@ -509,48 +509,54 @@ Notes: Small transitional cave linking upper dungeon passages to the Entrance to
 **Notes**: Chamber containing hostile cyclops blocking upward staircase; single northwest return path; upward traversal denied while cyclops present.
 
 ### Entry 82
+**Entered**: [[Z1 - Treasure Room]]
+**From**: [[Z1 - Cyclops Room]] (via staircase, after Cyclops removal)
+**Lighting**: Lit
+**Notes**: Thief present on entry; treasures vanish upon arrival; no reported exits; chamber functions as robber hideaway. 
+
+### Entry 83
 **Entered**: [[Z1 - Maze R]]
 **From**: [[Z1 - Maze O]]
 **Lighting**: Dark
 **Notes**: High-connectivity maze node; vertical ascent available; one-way descent present.
 
-### Entry 83
+### Entry 84
 **Entered**: [[Z1 - Maze V]]
 **From**: [[Z1 - Maze R]]
 **Lighting**: Dark
 **Notes**: Vertical loop node within maze; connects upward and downward to distinct maze strata
 
-### Entry 84
+### Entry 85
 **Entered**: [[Z1 - Maze Z]]
 **From**: [[Z1 - Maze V]]
 **Lighting**: Dark
 **Notes**: High-density maze junction with five lateral exits and one irreversible descent.
 
-### Entry 85
+### Entry 86
 **Entered**: [[Z1 - Maze AF]]
 **From**: [[Z1 - Maze Z]]
 **Lighting**: Dark
 **Notes**: Boundary node between maze stratum and Grating subsystem; additional vertical descent available.
 
-### Entry 86
+### Entry 87
 **Entered**: [[Z1 - Grating Room]]
 **From**: [[Z1 - Maze AF]]
 **Lighting**: Dark
 **Notes**: Subsurface boundary chamber; locked vertical grating visible above.
 
-### Entry 87
+### Entry 88
 **Entered**: [[Z1 - Clearing B]]
 **From**: [[Z1 - Forest Path]];
 **Lighting**: Lit
 **Notes**: Surface boundary clearing; vertical access to Grating Room visible once unlocked or pile of leaves dispersed.
 
-### Entry 88
+### Entry 89
 **Entered**: [[Z1 - Stone Barrow]]
 **From**: [[Z1 - West of House]]
 **Lighting**: Lit
 **Notes**: Surface tomb structure; open westward passage into dark interior.
 
-### Entry 89
+### Entry 90
 **Entered**: [[Z1 - Inside the Barrow]]
 **From**: [[Z1 - Stone Barrow]]
 **Lighting**: Mixed (entry dark; cavern visibly lit)

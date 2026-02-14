@@ -1,4 +1,4 @@
-# Engravings Cave
+# Z1 - Engravings Cave
 
 ## Description (verbatim)
 You have entered a low cave with passages leading northwest and east. There are old engravings on the wall here.

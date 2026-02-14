@@ -1,4 +1,4 @@
-# Timber Room
+# Z1 - Timber Room
 
 ## Description (verbatim)
 This is a long and narrow passage, which is cluttered with broken timbers.

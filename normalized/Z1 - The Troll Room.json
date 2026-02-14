@@ -28,7 +28,18 @@
     "Mapping notes": {
       "Internal ID": "Z1-R-011",
       "First mapped": "2026 Feb. 3",
-      "**Revisions": "**"
+      "Revisions": ""
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

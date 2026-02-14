@@ -1,4 +1,4 @@
-# Attic
+# Z1 - Attic
 
 ## Description (verbatim)
 This is the Attic. The only exit is a stairway leading down.

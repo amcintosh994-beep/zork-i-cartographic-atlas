@@ -1,4 +1,4 @@
-# Cyclops Room
+# Z1 - Cyclops Room
 
 ## Description (verbatim)
 This room has an exit on the northwest, and a staircase leading up.

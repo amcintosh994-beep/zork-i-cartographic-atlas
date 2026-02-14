@@ -1,4 +1,4 @@
-# Grating Room
+# Z1 - Grating Room
 
 ## Description (verbatim)
 You are in a small room near the maze.
@@ -27,6 +27,6 @@ Above you is a grating locked with a skull-and-crossbones lock.
 - Dark
 
 ## Mapping notes
-**Internal ID**: Z1-R-086
+**Internal ID**: Z1-R-087
 **First mapped**: 2026 Feb. 13
 **Revisions**:

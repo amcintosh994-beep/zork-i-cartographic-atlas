@@ -1,4 +1,4 @@
-# West of House
+# Z1 - West of House
 
 ## Description (verbatim)
 You are standing in an open field west of a white house, with a boarded front door.
@@ -28,10 +28,9 @@ There is a small mailbox here.
 
 ## State notes
 - Lit
+- Directional collapse observed: N ≡ NE; S ≡ SE
 
 ## Mapping notes
 **Internal ID**: Z1-R-001
 **First mapped**: 2026 Feb. 3
 **Revisions**: 2026 Feb. 13
-
-- Directional collapse observed: N ≡ NE; S ≡ SE

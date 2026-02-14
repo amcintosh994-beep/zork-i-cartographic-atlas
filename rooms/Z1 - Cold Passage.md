@@ -1,4 +1,4 @@
-# Cold Passage
+# Z1 - Cold Passage
 
 ## Description (verbatim)
 This is a cold and damp corridor where a long east-west passageway turns into a southward path.

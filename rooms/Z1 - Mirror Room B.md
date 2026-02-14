@@ -1,4 +1,4 @@
-# Mirror Room B
+# Z1 - Mirror Room B
 
 ## Description (verbatim)
 You are in a large square room with tall ceilings. On the south wall is an enormous mirror which fills the entire wall. There are exits on the other three sides of the room.

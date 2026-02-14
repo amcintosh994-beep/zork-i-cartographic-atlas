@@ -22,9 +22,20 @@
       "-"
     ],
     "Mapping notes": {
-      "Internal ID": "",
-      "First mapped": "",
+      "Internal ID": "Z1-R-082",
+      "First mapped": "2026 Feb. 12",
       "Revisions": ""
     }
-  }
+  },
+  "section_order": [
+    "Description (verbatim)",
+    "Exits (as reported)",
+    "Blocked movements",
+    "Hidden/conditional transitions",
+    "Objects present",
+    "Hazards/NPCs",
+    "Key parser interactions",
+    "State notes",
+    "Mapping notes"
+  ]
 }

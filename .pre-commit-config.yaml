@@ -1,11 +1,20 @@
 repos:
   - repo: local
     hooks:
+    
+      - id: zork-no-mixed-eol
+        name: Zork Atlas - reject mixed line endings
+        entry: python scripts/check_mixed_line_endings.py
+        language: system
+        types: [text]
+        stages: [pre-commit, manual]
+        
       - id: zork-atlas-compiler
         name: Zork Atlas compiler-grade gate
         entry: python scripts/atlas_compile_gate.py
         language: system
         pass_filenames: false
+        stages: [pre-commit, manual]
         args:
           - >
             set -euo pipefail;

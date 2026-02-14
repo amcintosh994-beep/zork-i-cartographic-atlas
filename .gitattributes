@@ -1,0 +1,26 @@
+# --- Canonical text policy ---
+# All text normalized to LF in the repository
+* text=auto eol=lf
+
+# --- Explicit text formats ---
+*.md      text eol=lf
+*.json    text eol=lf
+*.py      text eol=lf
+*.yaml    text eol=lf
+*.yml     text eol=lf
+*.txt     text eol=lf
+*.sh      text eol=lf
+
+# --- Windows-specific scripts (optional) ---
+*.ps1     text eol=crlf
+*.bat     text eol=crlf
+
+# --- Binary formats (never normalize) ---
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.ico     binary
+*.pdf     binary
+*.zip     binary
+*.db      binary

@@ -1,0 +1,34 @@
+{
+  "title": "Z1 - Canyon View",
+  "sections": {
+    "Description (verbatim)": "You are at the top of the great Canyon on its west wall. From here there is a marvelous view of the Canyon and parts of the Frigid River upstream. The walls of the white cliffs join the mighty ramparts of the Flathead Mountains to the east.\nFollowing the Canyon upstream to the north, Aragain Falls may be seen complete with Rainbow. The mighty Frigid River flows out from a great dark cavern. To the west and south can be seen an immense forest, stretching for miles around. A path leads northwest. It is possible to climb down into the Canyon from here.",
+    "Exits (as reported)": [
+      "E → [[Z1 - Rocky Ledge]]",
+      "W → [[Z1 - Forest G]]",
+      "NW → [[Z1 - Clearing D]]"
+    ],
+    "Blocked movements": [
+      "S → \"Storm-tossed trees block your way.\""
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Lit"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-024",
+      "First mapped": "2026 Feb. 4",
+      "Revisions": ""
+    }
+  }
+}

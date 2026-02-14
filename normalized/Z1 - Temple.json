@@ -1,0 +1,34 @@
+{
+  "title": "Z1 - Temple",
+  "sections": {
+    "Description (verbatim)": "This is the north end of a large temple. On the east wall is an ancient inscription, probably a prayer in a long-forgotten language. Below the prayer is a staircase leading down. The west wall is solid granite. The exit to the north end of the room is through huge marble pillars.\nThere is a Brass Bell here.",
+    "Exits (as reported)": [
+      "N → [[Z1 - Torch Room]]",
+      "E → [[Z1 - Egyptian Room]]",
+      "S → [[Z1 - Altar]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "Brass Bell"
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Lit"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-018",
+      "First mapped": "2026 Feb. 4",
+      "Revisions": ""
+    }
+  }
+}

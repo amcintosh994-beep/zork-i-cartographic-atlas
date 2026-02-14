@@ -1,0 +1,35 @@
+{
+  "title": "Z1 - Deep Canyon",
+  "sections": {
+    "Description (verbatim)": "You are on the south edge of a deep Canyon. Passages lead off to the east, northwest, and southwest. A stairway leads down. You can hear a loud roaring sound, like that of rushing water, from below.",
+    "Exits (as reported)": [
+      "E → [[Z1 - Dam]]",
+      "SW → [[Z1 - North-South Passage]]",
+      "NW → [[Z1 - Reservoir South]]",
+      "D → [[Z1 - Loud Room]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "Descent into Loud Room before acoustic mitigation; player is forced out via a randomized exit."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-033",
+      "First mapped": "2026 Feb. 4",
+      "Revisions": ""
+    }
+  }
+}

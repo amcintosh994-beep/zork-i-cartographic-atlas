@@ -1,0 +1,37 @@
+{
+  "title": "Z1 - Loud Room",
+  "sections": {
+    "Description (verbatim)": "(If descending from above:) On the ground is a large Platinum Bar.\nIt is unbearably loud here, with an ear-splitting roar seeming to come from all around you. There is a pounding in your head which won't stop. With a tremendous effort, you scramble out of the room.\n\n(If entering from Round Room:) This is a large room with a ceiling which cannot be detected from the ground. There is a narrow passage from east to west and a stone stairway leading upward. The room is deafeningly loud with an undetermined rushing sound. The sound seems to reverberate from all of the walls, making it difficult even to think.\nOn the ground is a large platinum Bar.",
+    "Exits (as reported)": [
+      "E → [[Z1 - Damp Cave]]",
+      "W → [[Z1 - Round Room]]",
+      "U → [[Z1 - Deep Canyon]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "As detailed in Deep Canyon's index, descending from above randomizes exit from this room.",
+      "Entering from Round Room, issuing commands will only result in those same commands echoing back in the parser (specifically, the last word of the command). For this state, GO UP reliably returns player character to Deep Canyon.",
+      "Directional exits are present but unreliable due to acoustic interference; see notes."
+    ],
+    "Objects present": [
+      "Platinum Bar"
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark",
+      "Loud"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-034",
+      "First mapped": "2026 Feb. 4",
+      "Revisions": ""
+    }
+  }
+}

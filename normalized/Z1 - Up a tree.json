@@ -1,0 +1,32 @@
+{
+  "title": "Z1 - Up a tree",
+  "sections": {
+    "Description (verbatim)": "You are about 10 feet above the ground nestled among some large branches. The nearest branch above you is above your reach.\nBeside you on the branch is a small bird's nest.\nIn the bird's nest is a large egg encrusted with precious jewels, apparently scavenged by a childless songbird. The egg is covered with fine gold inlay, and ornamented in lapis lazuli and mother-of-pearl. Unlike most eggs, this one is hinged and closed with a delicate looking clasp. The egg appears extremely fragile.",
+    "Exits (as reported)": [
+      "D → [[Z1 - Forest Path]]"
+    ],
+    "Blocked movements": [
+      "U → \"You cannot climb any higher.\""
+    ],
+    "Hidden/conditional transitions": [
+      "The sound produced by the command WIND UP CANARY attracts a songbird who drops the Brass Bauble onto [[Z1 - Forest Path]]."
+    ],
+    "Objects present": [
+      "Jeweled Egg"
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Lit"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-073",
+      "First mapped": "2026 Feb. 11",
+      "Revisions": "2026 Feb. 13"
+    }
+  }
+}

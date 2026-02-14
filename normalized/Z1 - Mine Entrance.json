@@ -1,0 +1,33 @@
+{
+  "title": "Z1 - Mine Entrance",
+  "sections": {
+    "Description (verbatim)": "You are standing at the entrance of what might have been a coal mine. The shaft enters the west wall, and there is another exit on the south end of the room.",
+    "Exits (as reported)": [
+      "S → [[Z1 - Slide Room]]",
+      "W → [[Z1 - Squeaky Room]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-042",
+      "First mapped": "2026 Feb. 6",
+      "Revisions": ""
+    }
+  }
+}

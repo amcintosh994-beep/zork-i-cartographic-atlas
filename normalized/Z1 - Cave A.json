@@ -1,0 +1,34 @@
+{
+  "title": "Z1 - Cave A",
+  "sections": {
+    "Description (verbatim)": "This is a tiny cave with entrances west and north, and a dark, forbidding staircase leading down.",
+    "Exits (as reported)": [
+      "N → [[Z1 - Mirror Room A]]",
+      "W → [[Z1 - Winding Passage]]",
+      "D → [[Z1 - Entrance to Hades]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-035",
+      "First mapped": "2026 Feb. 5",
+      "Revisions": ""
+    }
+  }
+}

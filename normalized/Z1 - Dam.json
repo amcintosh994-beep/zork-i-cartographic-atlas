@@ -1,0 +1,36 @@
+{
+  "title": "Z1 - Dam",
+  "sections": {
+    "Description (verbatim)": "You are standing on the top of the Flood Control Dam #3, which was quite a tourist attraction in times far distant. There are paths to the north, south, and west, and a scramble down.\nThe sluice gates on the Dam are closed.\nBehind the Dam, there can be seen a wide reservoir. Water is pouring over the top of the now abandoned dam.\nThere is a large control panel here, on which a large metal bolt is mounted. Directly above the bolt is a small green plastic bubble.",
+    "Exits (as reported)": [
+      "N → [[Z1 - Dam Lobby]]",
+      "E → [[Z1 - Dam Base]]",
+      "S → [[Z1 - Deep Canyon]]",
+      "W → [[Z1 - Reservoir South]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "Once yellow button in [[Z1 - Maintenance Room]] has been pushed, the green bubble will be \"glowing serenely.\"",
+      "Sluice gates may be opened by turning bolt with wrench."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "TURN BOLT WITH WRENCH → \"The sluice gates open and water pours through the Dam.\""
+    ],
+    "State notes": [
+      "Lit"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-030",
+      "First mapped": "2026 Feb. 4",
+      "Revisions": "2026 Feb. 5"
+    }
+  }
+}

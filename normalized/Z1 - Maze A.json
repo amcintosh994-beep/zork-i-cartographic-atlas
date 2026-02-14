@@ -1,0 +1,35 @@
+{
+  "title": "Z1 - Maze A",
+  "sections": {
+    "Description (verbatim)": "This is part of a maze of twisty little passages, all alike.",
+    "Exits (as reported)": [
+      "N → [[Z1 - Maze AF]]",
+      "E → [[Z1 - The Troll Room]]",
+      "S → [[Z1 - Maze C]]",
+      "W → [[Z1 - Maze D]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-074",
+      "First mapped": "2026 Feb. 11",
+      "Revisions": ""
+    }
+  }
+}

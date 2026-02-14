@@ -1,0 +1,34 @@
+{
+  "title": "Z1 - Coal Mine E",
+  "sections": {
+    "Description (verbatim)": "You have entered a non-descript part of a coal mine.",
+    "Exits (as reported)": [
+      "E → [[Z1 -Coal Mine G]]",
+      "S → [[Z1 - Coal Mine H]]",
+      "SW → [[Z1 - Coal Mine I]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-050",
+      "First mapped": "2026 Feb. 7",
+      "Revisions": ""
+    }
+  }
+}

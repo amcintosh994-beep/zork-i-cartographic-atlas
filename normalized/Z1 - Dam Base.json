@@ -1,0 +1,36 @@
+{
+  "title": "Z1 - Dam Base",
+  "sections": {
+    "Description (verbatim)": "You are at the base of Flood Control Dam #3, which looms above you and to the north. The River Frigid is flowing by here. Along the river are the white cliffs which seem to form giant walls stretching from north to south along the shores of the river as it winds its way downstream.\nThere is a folded pile of plastic here which has a small valve attached.",
+    "Exits (as reported)": [
+      "N → [[Z1 - Dam]]",
+      "LAUNCH → [[Z1 - Frigid River A]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "...",
+      "Exit condition for LAUNCH → [[Z1 - Frigid River A]]: (Once inside boat)"
+    ],
+    "Objects present": [
+      "Pile of plastic (magic boat)",
+      "Tan label (inside magic boat)"
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "INFLATE PLASTIC WITH PUMP: \"The boat inflates and appears seaworthy.",
+      "A tan label is lying inside the boat.\""
+    ],
+    "State notes": [
+      "Lit"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-064",
+      "First mapped": "2026 Feb. 10",
+      "Revisions": ""
+    }
+  }
+}

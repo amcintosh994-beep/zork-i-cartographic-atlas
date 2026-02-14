@@ -1,0 +1,33 @@
+{
+  "title": "Z1 - Stone Barrow",
+  "sections": {
+    "Description (verbatim)": "You are standing in front of a massive barrow of stone. In the east face is a huge stone door which is open. You cannot see into the dark of the tomb.",
+    "Exits (as reported)": [
+      "NE → [[Z1 - West of House]]",
+      "W → [[Z1 - Inside the Barrow]]"
+    ],
+    "Blocked movements": [
+      "(none)"
+    ],
+    "Hidden/conditional transitions": [
+      "..."
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "..."
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Lit"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-088",
+      "First mapped": "2026 Feb. 13",
+      "Revisions": ""
+    }
+  }
+}

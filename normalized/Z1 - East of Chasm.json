@@ -1,0 +1,38 @@
+{
+  "title": "Z1 - East of Chasm",
+  "sections": {
+    "Description (verbatim)": "You are on the east edge of the Chasm, the bottom of which cannot be seen. A narrow passage goes north, and the path you are on continues east.",
+    "Exits (as reported)": [
+      "N → [[Z1 - Cellar]]",
+      "E → [[Z1 - Gallery]]"
+    ],
+    "Blocked movements": [
+      "D: \"The chasm probably leads straight to the infernal regions.\""
+    ],
+    "Hidden/conditional transitions": [
+      "...",
+      "Exit condition for N → [[Z1 - Cellar]]: (dark)",
+      "Exit condition for E → [[Z1 - Gallery]]: (lit)"
+    ],
+    "Objects present": [
+      "..."
+    ],
+    "Hazards/NPCs": [
+      "(none)"
+    ],
+    "Key parser interactions": [
+      "(none)"
+    ],
+    "State notes": [
+      "Dark"
+    ],
+    "Mapping notes": {
+      "Internal ID": "Z1-R-008",
+      "First mapped": "2026 Feb. 3",
+      "Revisions": "",
+      "Notes": [
+        "Chasm edge introduces abyss boundary; downward movement explicitly disallowed."
+      ]
+    }
+  }
+}

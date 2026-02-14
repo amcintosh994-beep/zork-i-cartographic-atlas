@@ -42,6 +42,6 @@ schema/room_schema_v1.0_with_section_order.json
 
 ## v1.0 freeze
 The tag:
-Zork I Cartographic Atlas - v1.0
+z1-atlas-v1.0
 
 represents the first fully validated, schema-clean canonical baseline.

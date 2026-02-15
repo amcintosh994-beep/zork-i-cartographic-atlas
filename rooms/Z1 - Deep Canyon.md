@@ -9,6 +9,9 @@ You are on the south edge of a deep Canyon. Passages lead off to the east, north
 - NW →[[Z1 - Reservoir South]]
 - D → [[Z1 - Loud Room]]
 
+- N → [[Z1 - Dam]]
+
+
 ## Blocked movements
 - (none)
 

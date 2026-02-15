@@ -3,7 +3,8 @@
   "sections": {
     "Description (verbatim)": "You are in a small room near the maze.\nThere are twisty passages in the immediate vicinity.\nAbove you is a grating locked with a skull-and-crossbones lock.",
     "Exits (as reported)": [
-      "SW → [[Z1 - Maze AI]]"
+      "SW → [[Z1 - Maze AI]]",
+      "SW → [[Z1 - Maze AF]]"
     ],
     "Blocked movements": [
       "(none)"

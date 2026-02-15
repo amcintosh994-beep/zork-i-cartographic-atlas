@@ -5,7 +5,9 @@
     "Exits (as reported)": [
       "E → [[Z1 - Rocky Ledge]]",
       "W → [[Z1 - Forest G]]",
-      "NW → [[Z1 - Clearing D]]"
+      "NW → [[Z1 - Clearing D]]",
+      "W → [[Z1 - Clearing A]]",
+      "D → [[Z1 - Rocky Ledge]]"
     ],
     "Blocked movements": [
       "S → \"Storm-tossed trees block your way.\""

@@ -9,6 +9,9 @@ There is a Brass Bell here.
 - E/D → [[Z1 - Egyptian Room]]
 - S → [[Z1 - Altar]]
 
+- N → [[Z1 - Torch Room]]
+
+
 ## Blocked movements
 - (none)
 

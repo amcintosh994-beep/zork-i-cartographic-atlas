@@ -8,6 +8,9 @@ This is part of a maze of twisty little passages, all alike.
 - W → [[Z1 - Maze I]]
 - U → [[Z1 - Maze J]]
 
+- W → [[Z1 - Maze C]]
+
+
 ## Blocked movements
 - (none)
 

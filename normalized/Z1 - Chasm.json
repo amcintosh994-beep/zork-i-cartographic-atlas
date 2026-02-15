@@ -5,7 +5,8 @@
     "Exits (as reported)": [
       "NE → [[Z1 - Reservoir South]]",
       "S → [[Z1 - North-South Passage]]",
-      "SW → [[Z1 - East-West Passage]]"
+      "SW → [[Z1 - East-West Passage]]",
+      "S → [[Z1 - East-West Passage]]"
     ],
     "Blocked movements": [
       "D: \"Are you out of your mind?\""

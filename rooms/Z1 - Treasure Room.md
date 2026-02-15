@@ -12,6 +12,9 @@ There is a Silver Chalice, intricately engraved, here.
 ## Exits (as reported)
 - (none)
 
+- D → [[Z1 - Cyclops Room]]
+
+
 ## Blocked movements
 - (none)
 

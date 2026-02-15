@@ -10,6 +10,9 @@ There is a shovel here. (Outside the magic boat)
 - NE → [[Z1 - Sandy Cave]]
 - S → [[Z1 - Shore]]
 
+- W → [[Z1 - Frigid River D]]
+
+
 ## Blocked movements
 - (none)
 

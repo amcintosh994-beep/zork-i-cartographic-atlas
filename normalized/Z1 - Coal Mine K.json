@@ -5,7 +5,9 @@
     "Exits (as reported)": [
       "N → [[Z1 - Coal Mine N]]",
       "SE → [[Z1 - Coal Mine O]]",
-      "S → [[Z1 - Coal Mine P]]"
+      "S → [[Z1 - Coal Mine P]]",
+      "E → [[Z1 - Coal Mine I]]",
+      "W → [[Z1 - Coal Mine J]]"
     ],
     "Blocked movements": [
       "(none)"

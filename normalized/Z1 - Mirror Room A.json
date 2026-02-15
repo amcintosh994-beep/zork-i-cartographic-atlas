@@ -5,7 +5,8 @@
     "Exits (as reported)": [
       "N → [[Z1 - Narrow Passage]]",
       "E → [[Z1 - Cave A]]",
-      "W → [[Z1 - Winding Passage]]"
+      "W → [[Z1 - Winding Passage]]",
+      "S → [[Z1 - Cave A]]"
     ],
     "Blocked movements": [
       "(none)"

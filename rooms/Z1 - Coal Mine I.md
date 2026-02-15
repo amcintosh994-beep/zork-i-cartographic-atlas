@@ -8,6 +8,9 @@ You have entered a non-descript part of a coal mine.
 - W → [[Z1 - Coal Mine K]]
 - D → [[Z1 - Ladder Top]]
 
+- NE → [[Z1 - Coal Mine E]]
+
+
 ## Blocked movements
 - (none)
 

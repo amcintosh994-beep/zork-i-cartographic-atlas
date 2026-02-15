@@ -11,6 +11,12 @@ You are behind the White House. A path leads into the Forest to the east. In one
 - W → [[Z1 - Kitchen]] (once window is open)
 - NW → [[Z1 - North of House]]
 
+- W → [[Z1 - North of House]]
+
+- W → [[Z1 - South of House]]
+
+
+
 ## Blocked movements
 - ...
 

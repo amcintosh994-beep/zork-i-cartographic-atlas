@@ -6,7 +6,8 @@
       "N → [[Z1 - Forest E]]",
       "E → [[Z1 - Canyon View]]",
       "S → [[Z1 - Forest F]]",
-      "W → [[Z1 - Behind House]]"
+      "W → [[Z1 - Behind House]]",
+      "S → [[Z1 - Forest B]]"
     ],
     "Blocked movements": [
       "U → \"There is no tree here suitable for climbing.\""

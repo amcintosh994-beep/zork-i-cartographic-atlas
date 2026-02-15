@@ -6,7 +6,8 @@
       "N → [[Z1 - Dam Lobby]]",
       "E → [[Z1 - Dam Base]]",
       "S → [[Z1 - Deep Canyon]]",
-      "W → [[Z1 - Reservoir South]]"
+      "W → [[Z1 - Reservoir South]]",
+      "W → [[Z1 - Deep Canyon]]"
     ],
     "Blocked movements": [
       "(none)"

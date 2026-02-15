@@ -5,7 +5,8 @@
     "Exits (as reported)": [
       "N → [[Z1 - Maze H]]",
       "W → [[Z1 - Maze I]]",
-      "U → [[Z1 - Maze J]]"
+      "U → [[Z1 - Maze J]]",
+      "W → [[Z1 - Maze C]]"
     ],
     "Blocked movements": [
       "(none)"

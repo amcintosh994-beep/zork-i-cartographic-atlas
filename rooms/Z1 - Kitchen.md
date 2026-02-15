@@ -11,6 +11,9 @@ The glass bottle contains:
 - W → [[Z1 - Living Room]]
 - U → [[Z1 - Attic]]
 
+- D → [[Z1 - Studio]]
+
+
 ## Blocked movements
 - D: "Only Santa Clause climbs down chimneys"
 

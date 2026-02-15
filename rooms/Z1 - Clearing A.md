@@ -9,6 +9,9 @@ You are in a small clearing in a well marked forest path that extends to the eas
 - S → [[Z1 - Forest F]]
 - W → [[Z1 - Behind House]]
 
+- S → [[Z1 - Forest B]]
+
+
 ## Blocked movements
 - U → "There is no tree here suitable for climbing."
 

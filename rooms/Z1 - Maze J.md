@@ -12,6 +12,15 @@ An old leather bag, bulging with coins, is here.
 - E → [[Z1 - Dead End A (Maze)]]
 - SW → [[Z1 - Maze L]]
 
+- D → [[Z1 - Maze E]]
+
+- U → [[Z1 - Maze L]]
+
+- U → [[Z1 - Maze V]]
+
+
+
+
 ## Blocked movements
 - (none)
 

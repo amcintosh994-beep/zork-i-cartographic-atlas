@@ -7,6 +7,9 @@ You are on a small, rocky beach on the continuation of the Frigid River past the
 - SW → [[Z1 - Canyon Bottom]]
 - E → [[Z1 - On the Rainbow]] (conditional)
 
+- S → [[Z1 - Canyon Bottom]]
+
+
 ## Blocked movements
 - (none)
 

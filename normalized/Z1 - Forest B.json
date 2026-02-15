@@ -5,7 +5,8 @@
     "Exits (as reported)": [
       "N → [[Z1 - Clearing A]]",
       "W → [[Z1 - Forest D]]",
-      "NW → [[Z1 - South of House]]"
+      "NW → [[Z1 - South of House]]",
+      "N → [[Z1 - Forest A]]"
     ],
     "Blocked movements": [
       "E → \"The rank undergrowth prevents eastward movement.\"",

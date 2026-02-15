@@ -6,7 +6,8 @@
       "E → [[Z1 - Maze N]]",
       "S → [[Z1 - Maze O]]",
       "W → [[Z1 - Maze P]]",
-      "U → [[Z1 - Maze Q]]"
+      "U → [[Z1 - Maze Q]]",
+      "W → [[Z1 - Maze L]]"
     ],
     "Blocked movements": [
       "(none)"

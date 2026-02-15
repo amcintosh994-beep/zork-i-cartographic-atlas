@@ -8,6 +8,12 @@ This is a tiny cave with entrances west and north, and a dark, forbidding stairc
 - W → [[Z1 - Winding Passage]]
 - D → [[Z1 - Entrance to Hades]]
 
+- U → [[Z1 - Altar]]
+
+- W → [[Z1 - Mirror Room A]]
+
+
+
 ## Blocked movements
 - (none)
 

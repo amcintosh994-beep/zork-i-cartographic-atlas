@@ -10,6 +10,15 @@ You are facing the south side of a white house. There is no door here, and all t
 - W → [[Z1 - West of House]]
 - NW → [[Z1 - West of House]]
 
+- N → [[Z1 - Behind House]]
+
+- SE → [[Z1 - Forest B]]
+
+- N → [[Z1 - West of House]]
+
+
+
+
 ## Blocked movements
 - N: "The windows are all boarded."
 

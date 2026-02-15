@@ -5,7 +5,9 @@
     "Exits (as reported)": [
       "SE → [[Z1 - Cyclops Room]]",
       "S → [[Z1 - Maze R]]",
-      "W → [[Z1 - Maze S]]"
+      "W → [[Z1 - Maze S]]",
+      "D → [[Z1 - Maze L]]",
+      "N → [[Z1 - Maze M]]"
     ],
     "Blocked movements": [
       "(none)"

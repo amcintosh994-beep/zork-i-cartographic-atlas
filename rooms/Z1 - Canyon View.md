@@ -9,6 +9,12 @@ Following the Canyon upstream to the north, Aragain Falls may be seen complete w
 - W → [[Z1 - Forest G]]
 - NW → [[Z1 - Clearing D]]
 
+- W → [[Z1 - Clearing A]]
+
+- D → [[Z1 - Rocky Ledge]]
+
+
+
 ## Blocked movements
 - S → "Storm-tossed trees block your way."
 

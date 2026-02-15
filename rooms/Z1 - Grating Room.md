@@ -8,6 +8,9 @@ Above you is a grating locked with a skull-and-crossbones lock.
 ## Exits (as reported)
 - SW → [[Z1 - Maze AI]]
 
+- SW → [[Z1 - Maze AF]]
+
+
 ## Blocked movements
 - (none)
 

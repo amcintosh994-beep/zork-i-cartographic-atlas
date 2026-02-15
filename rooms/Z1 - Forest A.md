@@ -8,6 +8,9 @@ This is a Forest, with trees in all directions. To the east, there appears to be
 - E → [[Z1 - Forest Path A]]
 - S → [[Z1 - Forest B]]
 
+- E → [[Z1 - West of House]]
+
+
 ## Blocked movements
 - W: "You would need a machete to go further west."
 - U: "There is no tree here suitable for climbing."

@@ -8,6 +8,12 @@ This is a non-descript part of a coal mine.
 - SE → [[Z1 - Coal Mine O]]
 - S → [[Z1 - Coal Mine P]]
 
+- E → [[Z1 - Coal Mine I]]
+
+- W → [[Z1 - Coal Mine J]]
+
+
+
 ## Blocked movements
 - (none)
 

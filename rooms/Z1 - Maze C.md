@@ -7,6 +7,9 @@ This is part of a maze of twisty little passages, all alike.
 - E → [[Z1 - Maze E]]
 - S → [[Z1 - Maze F]]
 
+- N → [[Z1 - Maze A]]
+
+
 ## Blocked movements
 - (none)
 

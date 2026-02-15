@@ -7,6 +7,9 @@ You are beneath the walls of the river canyon which may be climbable here. The l
 - N → [[Z1 - End of Rainbow]]
 - U → [[Z1 - Rocky Ledge]]
 
+- NE → [[Z1 - End of Rainbow]]
+
+
 ## Blocked movements
 - (none)
 

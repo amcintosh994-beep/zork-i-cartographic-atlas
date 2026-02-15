@@ -9,6 +9,9 @@ The Zork Trilogy continues with "Zork II: The Wizard of Frobozz" and is complete
 ## Exits (as reported)
 - None
 
+- E → [[Z1 - Stone Barrow]]
+
+
 ## Blocked movements
 - (none)
 

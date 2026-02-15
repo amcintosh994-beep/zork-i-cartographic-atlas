@@ -8,6 +8,12 @@ There is a sapphire-encrusted Bracelet here.
 - E → [[Z1 - Coal Mine A]]
 - U → [[Z1 - Smelly Room]]
 
+- S → [[Z1 - Coal Mine A]]
+
+- S → [[Z1 - Coal Mine P]]
+
+
+
 ## Blocked movements
 - (none)
 

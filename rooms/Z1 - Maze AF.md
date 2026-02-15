@@ -9,6 +9,9 @@ This is part of a maze of twisty little passages, all alike.
 - NW → [[Z1 - Maze AH]]
 - D → [[Z1 - Maze AI]]
 
+- S → [[Z1 - Maze A]]
+
+
 ## Blocked movements
 - (none)
 

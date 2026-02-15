@@ -7,7 +7,9 @@
       "E → [[Z1 - Behind House]]",
       "SE → [[Z1 - Behind House]]",
       "SW → [[Z1 - West of House]]",
-      "W → [[Z1 - West of House]]"
+      "W → [[Z1 - West of House]]",
+      "S → [[Z1 - Behind House]]",
+      "S → [[Z1 - West of House]]"
     ],
     "Blocked movements": [
       "S: \"The windows are all boarded.\""

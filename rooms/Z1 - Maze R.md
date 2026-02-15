@@ -9,6 +9,9 @@ This is part of a maze of twisty little passages, all alike.
 - W → [[Z1 - Maze V]]
 - U → [[Z1 - Maze W]]
 
+- N → [[Z1 - Maze O]]
+
+
 ## Blocked movements
 - (none)
 

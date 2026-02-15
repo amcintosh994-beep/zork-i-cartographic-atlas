@@ -10,6 +10,9 @@ The way through the gate is barred by evil spirits, who jeer at your attempts to
 ## Exits (as reported)
 - S → [[Z1 - Land of the Dead]]
 
+- U → [[Z1 - Cave A]]
+
+
 ## Blocked movements
 - S → "Some invisible force prevents you from passing through the gate." (Before performing ritual)
 

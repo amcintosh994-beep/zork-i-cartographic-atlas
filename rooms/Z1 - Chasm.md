@@ -8,6 +8,9 @@ A chasm runs southwest to northeast and the path follows it. You are on the sout
 - S → [[Z1 - North-South Passage]]
 - SW/U → [[Z1 - East-West Passage]]
 
+- S → [[Z1 - East-West Passage]]
+
+
 ## Blocked movements
 - D: "Are you out of your mind?"
 

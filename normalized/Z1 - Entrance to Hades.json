@@ -3,7 +3,8 @@
   "sections": {
     "Description (verbatim)": "You are outside a large gateway, on which is inscribed\n\tAbandon every hope all ye who enter here!\n\nThe gate is open; through it you can see a desolation, with a pile of mangled bodies in one corner. Thousands of voices, lamenting some hideous fate, can be heard.\nThe way through the gate is barred by evil spirits, who jeer at your attempts to pass.",
     "Exits (as reported)": [
-      "S → [[Z1 - Land of the Dead]]"
+      "S → [[Z1 - Land of the Dead]]",
+      "U → [[Z1 - Cave A]]"
     ],
     "Blocked movements": [
       "S → \"Some invisible force prevents you from passing through the gate.\" (Before performing ritual)"

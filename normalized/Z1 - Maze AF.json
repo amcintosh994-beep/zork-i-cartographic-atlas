@@ -6,7 +6,8 @@
       "NE → [[Z1 - Grating Room]]",
       "SW → [[Z1 - Maze AG]]",
       "NW → [[Z1 - Maze AH]]",
-      "D → [[Z1 - Maze AI]]"
+      "D → [[Z1 - Maze AI]]",
+      "S → [[Z1 - Maze A]]"
     ],
     "Blocked movements": [
       "(none)"

@@ -8,6 +8,9 @@ This is a dimly lit forest, with large trees all around.
 - W → [[Z1 - Forest D]]
 - NW → [[Z1 - South of House]]
 
+- N → [[Z1 - Forest A]]
+
+
 ## Blocked movements
 - E → "The rank undergrowth prevents eastward movement."
 - S → "Storm-tossed trees block your way."

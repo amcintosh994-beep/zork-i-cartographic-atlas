@@ -11,6 +11,15 @@ There is a small mailbox here.
 - S → [[Z1 - South of House]]
 - W → [[Z1 - Forest A]]
 
+- E → [[Z1 - North of House]]
+
+- E → [[Z1 - South of House]]
+
+- SW → [[Z1 - Stone Barrow]]
+
+
+
+
 ## Blocked movements
 - E: "The door is boarded and you can't remove the boards"
 

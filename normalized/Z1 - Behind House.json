@@ -8,7 +8,9 @@
       "S → [[Z1 - South of House]]",
       "SW → [[Z1 - South of House]]",
       "W → [[Z1 - Kitchen]]",
-      "NW → [[Z1 - North of House]]"
+      "NW → [[Z1 - North of House]]",
+      "W → [[Z1 - North of House]]",
+      "W → [[Z1 - South of House]]"
     ],
     "Blocked movements": [
       "..."

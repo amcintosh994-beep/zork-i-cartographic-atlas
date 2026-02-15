@@ -6,7 +6,8 @@
       "E → [[Z1 - Dam]]",
       "SW → [[Z1 - North-South Passage]]",
       "NW → [[Z1 - Reservoir South]]",
-      "D → [[Z1 - Loud Room]]"
+      "D → [[Z1 - Loud Room]]",
+      "N → [[Z1 - Dam]]"
     ],
     "Blocked movements": [
       "(none)"

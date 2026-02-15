@@ -9,6 +9,9 @@ There is an open grating, descending into darkness.
 - S → [[Z1 - Forest Path]]
 - W → [[Z1 - Forest K]]
 
+- S → [[Z1 - Forest A]]
+
+
 ## Blocked movements
 - N → "The forest becomes impenetrable to the north."
 

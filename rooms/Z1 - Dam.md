@@ -12,6 +12,9 @@ There is a large control panel here, on which a large metal bolt is mounted. Dir
 - S → [[Z1 - Deep Canyon]]
 - W → [[Z1 - Reservoir South]]
 
+- W → [[Z1 - Deep Canyon]]
+
+
 ## Blocked movements
 - (none)
 

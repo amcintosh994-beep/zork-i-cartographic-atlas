@@ -5,7 +5,10 @@
     "Exits (as reported)": [
       "N → [[Z1 - Maze K]]",
       "E → [[Z1 - Dead End A (Maze)]]",
-      "SW → [[Z1 - Maze L]]"
+      "SW → [[Z1 - Maze L]]",
+      "D → [[Z1 - Maze E]]",
+      "U → [[Z1 - Maze L]]",
+      "U → [[Z1 - Maze V]]"
     ],
     "Blocked movements": [
       "(none)"

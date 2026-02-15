@@ -5,7 +5,8 @@
     "Exits (as reported)": [
       "N → [[Z1 - Clearing B]]",
       "E → [[Z1 - Forest Path A]]",
-      "S → [[Z1 - Forest B]]"
+      "S → [[Z1 - Forest B]]",
+      "E → [[Z1 - West of House]]"
     ],
     "Blocked movements": [
       "W: \"You would need a machete to go further west.\"",

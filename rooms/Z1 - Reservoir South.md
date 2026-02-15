@@ -11,6 +11,9 @@ There is a path along the stream to the east or west, a steep pathway climbing s
 - W → [[Z1 - Stream View]]
 - N (when water level is lowered): → [[Z1 - Reservoir]]
 
+- N → [[Z1 - Reservoir]]
+
+
 ## Blocked movements
 - N (when water level is high): "You would drown."
 

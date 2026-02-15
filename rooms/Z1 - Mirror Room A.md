@@ -8,6 +8,9 @@ You are in a large square room with tall ceilings. On the south wall is an enorm
 - E → [[Z1 - Cave A]]
 - W → [[Z1 - Winding Passage]]
 
+- S → [[Z1 - Cave A]]
+
+
 ## Blocked movements
 - (none)
 

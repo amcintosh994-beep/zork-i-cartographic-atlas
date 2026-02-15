@@ -24,3 +24,7 @@
 *.pdf     binary
 *.zip     binary
 *.db      binary
+
+# Schema files must not undergo CRLF normalization (hash stability)
+schema/*.json   text eol=lf
+schema/*.sha256 text eol=lf

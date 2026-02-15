@@ -7,3 +7,8 @@ build/
 # Python cache
 __pycache__/
 *.pyc
+
+# Normalizer build artifacts /scratch
+scripts/backup/
+scripts/normalize_rooms_schema_authoritative_merged.py
+scripts/normalize_rooms_schema_authoritative_patched.py
